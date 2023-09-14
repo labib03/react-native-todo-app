@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "138535449353",
+    "project_id": "react-native-test-app-8196e",
+    "storage_bucket": "react-native-test-app-8196e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138535449353:android:de085d30de394a07c899d8",
+        "android_client_info": {
+          "package_name": "com.labib.todoApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6aYhFB1UR-K3ma2HQ3yAlBwnOhPw-Gzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
